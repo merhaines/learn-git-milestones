@@ -322,9 +322,9 @@ Item # | Description | Completed
 5a | 2nd Favorite emoji | 👍
 5b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/merhaines/learn-git-milestones/commit/fe09b93e11e86c2775464792b69e0e4c5cb7a7c8)
 6a | Full path to your working directory | /Users/meredithhaines/Documents/GitHub/learn-git-milestones
-6b | Link to `commit #3 from CLI` |
-7 | 3rd Favorite emoji | 
-8 | Link to `commit #4 from VS Code` |
+6b | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/merhaines/learn-git-milestones/commit/28311371c02d0fb9dad5acb13162cfbdaa546c30)
+7 | 3rd Favorite emoji | 🌊
+8 | Link to `commit #4 from VS Code` | [commit #4 from VS Code]()
 9a | Link to `first-website` github.com repo page |
 9a | Link to `first-website` github.io "project site" |
 
