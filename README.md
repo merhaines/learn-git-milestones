@@ -317,7 +317,7 @@ Item # | Description | Completed
 --- | --- | ---
 4a | 1st Favorite emoji | 😂
 4b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/merhaines/learn-git-milestones/commit/e1431d52f2eb61de96327026331342f60d3cb83d)
-4c | Link to markdown tables docs | [How to Use Markdown Tables] (https://www.codecademy.com/resources/docs/markdown/tables)
+4c | Link to markdown tables docs | [How to Use Markdown Tables](https://www.codecademy.com/resources/docs/markdown/tables)
 4d | What does `log` do? | log lists the commits made in your repository in reverse chronological order so that the most recent commit shows up first. 
 5a | 2nd Favorite emoji | 👍
 5b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/merhaines/learn-git-milestones/commit/fe09b93e11e86c2775464792b69e0e4c5cb7a7c8)
