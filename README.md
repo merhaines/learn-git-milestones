@@ -316,14 +316,14 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 Item # | Description | Completed
 --- | --- | ---
 4a | 1st Favorite emoji | 😂
-4b | Link to `commit #1 from Github.com` |
-4c | Link to markdown tables docs |
-4d | What does `log` do? |
-5a | 2nd Favorite emoji |
+4b | Link to `commit #1 from Github.com` | [commit #1 from Github.com] (https://github.com/merhaines/learn-git-milestones/commit/e1431d52f2eb61de96327026331342f60d3cb83d)
+4c | Link to markdown tables docs | [How to Use Markdown Tables] (https://www.codecademy.com/resources/docs/markdown/tables)
+4d | What does `log` do? | log lists the commits made in your repository in reverse chronological order so that the most recent commit shows up first. 
+5a | 2nd Favorite emoji | 👍
 5b | Link to `commit #2 from Github Desktop` |
 6a | Full path to your working directory |
 6b | Link to `commit #3 from CLI` |
-7 | 3rd Favorite emoji |
+7 | 3rd Favorite emoji | 🌊
 8 | Link to `commit #4 from VS Code` |
 9a | Link to `first-website` github.com repo page |
 9a | Link to `first-website` github.io "project site" |
