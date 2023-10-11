@@ -324,7 +324,7 @@ Item # | Description | Completed
 6a | Full path to your working directory | /Users/meredithhaines/Documents/GitHub/learn-git-milestones
 6b | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/merhaines/learn-git-milestones/commit/28311371c02d0fb9dad5acb13162cfbdaa546c30)
 7 | 3rd Favorite emoji | 🌊
-8 | Link to `commit #4 from VS Code` | [commit #4 from VS Code]()
+8 | Link to `commit #4 from VS Code` | [commit #4 from VS Code](https://github.com/merhaines/learn-git-milestones/commit/b26ca93d5861af5a3793aa679117070e44bd338b)
 9a | Link to `first-website` github.com repo page |
 9a | Link to `first-website` github.io "project site" |
 
